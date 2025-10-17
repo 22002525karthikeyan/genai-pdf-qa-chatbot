@@ -87,5 +87,6 @@ def load_db(file, chain_type, k, llm_name):
 ```
 ### OUTPUT:
 <img width="1560" height="749" alt="390073682-78f8922a-3146-403f-9bb5-bacb1b753f66" src="https://github.com/user-attachments/assets/fa88934a-6ae9-4dc5-ad03-ba05fdb62ace" />
+
 ### RESULT:
 Thus, a question-answering chatbot capable of processing and extracting information from a provided PDF document using LangChain was implemented and evaluated for its effectiveness by testing its responses to diverse queries derived from the document's content successfully.
